@@ -1,6 +1,3 @@
-# ShareDemo
-Test Share UI
-
 ## REQUEST
 * File name format `xxxx-xxx.md`
 ### iOS
@@ -10,13 +7,38 @@ Test Share UI
    * iPhone width=`xxx` height=`xxx`
      iPad width=`xxx` height=`xxx`
      
-### Andriod
-* Andriod Screenshot
+### Android
+* Android Screenshot
   .....
   
 ### Web
   .....
-  
+
+## Note
+1. xxxx
+2. xxxx
+3. xxxx
+
+## Structure
+```
+   .
+├── ShareDemo
+│   ├── iOS
+│   │   ├── Assert
+│   │   ├── ......
+│   │   └── Login
+│   ├── Android
+│   │   ├── Assert
+│   │   └── ......
+│   │       
+│   ├── Web
+│   │   ├── Assert
+│   │   ├── ......
+│   │   └── ......
+│       
+└──
+```
+
 ****
 ## iOS Index
 * [Login](./iOS/Login/Login.md)
