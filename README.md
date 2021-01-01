@@ -3,7 +3,7 @@
 ### iOS
 * iOS Screenshot
    * Phone Model `iPhoneXS Max` `IPad Pro`
-   * Size Limit `<100k`
+   * Size Limit `<xxx k`
    * iPhone width=`xxx` height=`xxx`
      iPad width=`xxx` height=`xxx`
      
