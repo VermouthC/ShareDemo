@@ -21,7 +21,7 @@
 
 ## Structure
 ```
-   .
+.
 ├── ShareDemo
 │   ├── iOS
 │   │   ├── Assert
