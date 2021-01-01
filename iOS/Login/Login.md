@@ -2,4 +2,4 @@
 
 |  Code       | iPhone   |  iPad  |
 | ------        | ------      | ------  |
-| LoginViewController        |   ![](ShareDemo/iOS/Assert/Login_iPhone.jpg)     |        |
+| LoginViewController        |   ![](../Assert/Login_iPhone.jpg)     |        |
