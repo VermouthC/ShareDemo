@@ -45,5 +45,5 @@
 [Github Flavored Markdown Grammar](https://github.com/guodongxiaren/README)
 ****
 ## Index
-[iOS](./iOS_index.md)
-[Android](./Android_index.md)
+* [iOS](./iOS_index.md)
+* [Android](./Android_index.md)
