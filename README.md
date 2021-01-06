@@ -43,14 +43,4 @@
 
 ## Help
 [Github Flavored Markdown Grammar](https://github.com/guodongxiaren/README)
-
 ****
-# iOS Index
-* Login
-  * [Login](./iOS/Login/login.md)
-  * xxx
-  * xxx
-* Home
-  * xxx
-  * xxx
-
