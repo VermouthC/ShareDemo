@@ -1,12 +1,13 @@
 ## REQUEST
 * File name format `xxxx_xxx.md`
-* File name *ALL LOWERCASE*
+* Image name format `xxx_xxx.jpg`
+* File name && Image name  *ALL LOWERCASE*
 ### iOS
 * iOS Screenshot
    * Phone Model `iPhoneXS Max` `IPad Pro`
-   * Size Limit `<xxx k`
-   * iPhone width=`xxx` height=`xxx`
-     iPad width=`xxx` height=`xxx`
+   * Image Size Limit iPhone `<= xxx kb` iPad `<= xxx kb`
+   * iPhone <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>  
+     iPad <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>
      
 ### Android
 * Android Screenshot
