@@ -1,5 +1,6 @@
 ## REQUEST
-* File name format `xxxx-xxx.md`
+* File name format `xxxx_xxx.md`
+* File name *ALL LOWERCASE*
 ### iOS
 * iOS Screenshot
    * Phone Model `iPhoneXS Max` `IPad Pro`
