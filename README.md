@@ -12,9 +12,6 @@
 ### Android
 * Android Screenshot
   .....
-  
-### Web
-  .....
 
 ## Note
 1. xxxx
@@ -29,15 +26,10 @@
 │   │   ├── Assert
 │   │   ├── ......
 │   │   └── Login
-│   ├── Android
-│   │   ├── Assert
-│   │   └── ......
-│   │       
-│   ├── Web
-│   │   ├── Assert
-│   │   ├── ......
-│   │   └── ......
-│       
+│   └── Android
+│       ├── Assert
+│       └── ......
+│               
 └──
 ```
 
