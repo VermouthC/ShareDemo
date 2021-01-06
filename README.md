@@ -4,8 +4,8 @@
 * File name && Image name  *ALL LOWERCASE*
 ### iOS
 * iOS Screenshot
-   * Phone Model `iPhoneXS Max` `IPad Pro`
-   * Image Size Limit iPhone `<= xxx kb` iPad `<= xxx kb`
+   * Device `iPhoneXS Max` `IPad Pro`
+   * Image size limit iPhone `<= xxx kb` iPad `<= xxx kb`
    * iPhone <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>  
      iPad <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>
      
