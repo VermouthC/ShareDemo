@@ -1,7 +1,7 @@
 ## REQUEST
 * File name format `xxxx_xxx.md`
 * Image name format `xxx_xxx.jpg`
-* File name && Image name  *ALL LOWERCASE*
+* File name and Image name are `All Lowercase`
 * Phone Image tags <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>  
   Tablet Image tags  <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>
 * Image size limit Phone `<= xxx kb` Tablet `<= xxx kb`
