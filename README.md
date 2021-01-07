@@ -2,21 +2,21 @@
 * File name format `xxxx_xxx.md`
 * Image name format `xxx_xxx.jpg`
 * File name && Image name  *ALL LOWERCASE*
-### iOS
-* iOS Screenshot
-   * Device `iPhoneXS Max` `IPad Pro`
-   * Image size limit iPhone `<= xxx kb` iPad `<= xxx kb`
-   * iPhone <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>  
-     iPad <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>
-     
-### Android
-* Android Screenshot
-  .....
+* Phone Image tags <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>  
+  Tablet Image tags  <img src="../Assert/`Image Name`" width=`xxx` height=`xxx`>
+* Image size limit Phone `<= xxx kb` Tablet `<= xxx kb`
+* Device
+   * iOS `iPhoneXS Max` `IPad Pro`
+   * Android `Pixel 2`
+
+****
 
 ## Note
 1. xxxx
 2. xxxx
 3. xxxx
+
+****
 
 ## Structure
 ```
@@ -32,10 +32,13 @@
 │               
 └──
 ```
+****
 
 ## Help
 [Github Flavored Markdown Grammar](https://github.com/guodongxiaren/README)
+
 ****
+
 ## Index
 * [iOS](./iOS_index.md)
 * [Android](./Android_index.md)
